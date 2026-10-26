@@ -1,0 +1,30 @@
+{
+  "license": "MIT",
+  "provider": "OpenCV Zoo YuNet",
+  "files": [
+    {
+      "name": "face_detection_yunet_2026may.onnx",
+      "source": "https://media.githubusercontent.com/media/opencv/opencv_zoo/main/models/face_detection_yunet/face_detection_yunet_2026may.onnx",
+      "bytes": 229738,
+      "sha256": "ebafce4e3c118d6554634be5c27ab333b4c047a9a8c3faf1d7cf93101c22f0f0"
+    },
+    {
+      "name": "LICENSE",
+      "source": "https://raw.githubusercontent.com/opencv/opencv_zoo/main/models/face_detection_yunet/LICENSE",
+      "bytes": 1085,
+      "sha256": "c83b8120c50ccbd4c4f96edf53141bdd566ebb8f8e9227e415326aa1b1aba958"
+    },
+    {
+      "name": "README.md",
+      "source": "https://raw.githubusercontent.com/opencv/opencv_zoo/main/models/face_detection_yunet/README.md",
+      "bytes": 3221,
+      "sha256": "a140c9e9574ff99d3dc1c435d5e8b5e60690dc91597e66387cbbb52be12cce4c"
+    },
+    {
+      "name": "yunet.py",
+      "source": "https://raw.githubusercontent.com/opencv/opencv_zoo/main/models/face_detection_yunet/yunet.py",
+      "bytes": 1948,
+      "sha256": "8115b70ce52f514958d9df23fded86729880aec02ee38f0ea18feebce360099a"
+    }
+  ]
+}

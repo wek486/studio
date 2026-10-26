@@ -1,0 +1,26 @@
+[
+  {
+    "path": "engine\\models\\human_segmentation_pphumanseg_2023mar.onnx",
+    "url": "https://media.githubusercontent.com/media/opencv/opencv_zoo/main/models/human_segmentation_pphumanseg/human_segmentation_pphumanseg_2023mar.onnx",
+    "bytes": 6163938,
+    "sha256": "552d8a984054e59b5d773d24b9b12022b22046ceb2bbc4c9aaeaceb36a9ddf24"
+  },
+  {
+    "path": "third-party-notices\\pphumanseg\\LICENSE",
+    "url": "https://raw.githubusercontent.com/opencv/opencv_zoo/main/models/human_segmentation_pphumanseg/LICENSE",
+    "bytes": 11437,
+    "sha256": "d9cf3b547fa4232fb9285f2db52e909f10f00781aaf64a6d0bb90c55149f1363"
+  },
+  {
+    "path": "third-party-notices\\pphumanseg\\README.md",
+    "url": "https://raw.githubusercontent.com/opencv/opencv_zoo/main/models/human_segmentation_pphumanseg/README.md",
+    "bytes": 2020,
+    "sha256": "e3ff30ac92460fd2c814a5db67461af345f48c58e642f78eb38a285e4386e7ac"
+  },
+  {
+    "path": "third-party-notices\\pphumanseg\\upstream-pphumanseg.py.txt",
+    "url": "https://raw.githubusercontent.com/opencv/opencv_zoo/main/models/human_segmentation_pphumanseg/pphumanseg.py",
+    "bytes": 2345,
+    "sha256": "f2954226dc0b35ccc69aee2bbaca66c11f981bcbcb6c7d620b326902459b02b6"
+  }
+]
